@@ -1,1 +1,1 @@
-# Automating-Hospitality-A-Python-MySQL-Hotel-Management-System
+# Automating-Hospitality-A-Python-MySQL-Connectivity-Hotel-Management-System
